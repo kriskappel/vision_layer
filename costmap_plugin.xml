@@ -1,0 +1,5 @@
+<library path="lib/libvision_layer">
+  <class type="vision_layer::VisionLayer" base_class_type="costmap_2d::Layer">
+    <description>his is an example plugin which puts repeating costs gradients to costmap</description>
+  </class>
+</library>
